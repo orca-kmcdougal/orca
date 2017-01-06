@@ -1,0 +1,3 @@
+Shopping Cart MSI
+[Generic][Application][Requires]StrongName=class=solutions, version=1.0.4.2, culture=neutral, token=FD34AD35
+
